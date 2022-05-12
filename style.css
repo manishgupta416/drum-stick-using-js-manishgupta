@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    /* display: block; */
+    margin: 14px 44px;
+    padding: 24px 28px;
+}
+
+.audio-container {
+    /* visibility: hidden; */
+}
+
+button{
+    background-color: tomato;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    border: 2px solid blue
+}
